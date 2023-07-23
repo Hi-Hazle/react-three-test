@@ -1,9 +1,9 @@
-import GltfPage from "pages/gltf"
+import CubePage from "pages/cube"
 
 const routes = [
    {
       path: "/gltf",
-      element: <GltfPage />
+      element: <CubePage />
    }
 ]
 export default routes
